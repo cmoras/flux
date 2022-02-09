@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/cmoras/flux.git
+  url: https://github.com/cmoras/podinfo.git
 
